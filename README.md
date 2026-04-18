@@ -1,2 +1,2 @@
-# Algoritmalar-Veri-Yap-lar-ve-Yapay-Zeka
+# Veri Bilimi
 İYC Algoritmalar Veri Yapıları ve Yapay Zeka Atölyesi
